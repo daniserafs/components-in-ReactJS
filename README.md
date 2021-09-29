@@ -1,4 +1,4 @@
-### Chanllange Components in ReactJS
+### Challenge Components in ReactJS
     -another easy challenge that I needed help on doing. I guess someday I will be able to do it by myself
 
 
